@@ -1,0 +1,121 @@
+*{font-family: Tahoma;}
+
+.parent{
+    display: flex;
+}
+
+.j1{
+    background-color: lightgray;
+}
+
+.child1{margin-left:60px;}
+.child2{margin-left:1380px;
+        margin-top: 25px;
+        margin-right: 40px;}
+.child3{margin-top: 25px;
+        margin-right: 40px;}
+.child4{margin-top: 25px;
+        margin-right: 40px;}
+.child5{margin-top: 25px;
+        margin-right: 40px;}
+.child6{margin-top: 25px;}
+
+.j2{background-color: lightgray;
+    height:200px;
+}
+
+.c1{margin-left:60px;}
+.c2{margin-top: 60px;
+    margin-left:-60px}
+.c3{margin-top:20px;
+    margin-left: 20px;
+    width: 1370px;
+    background-color:gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    
+p.text{display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: lightgray;
+      height:200px;}
+
+.j3{margin-top: 10px;
+    background-color: white;
+    justify-content: center;
+}
+
+.c4{margin-left:5px;
+    width:573px;
+
+    }
+.c5{margin-left: 30px;
+    width:573px;
+    }
+.c6{margin-left: 30px;
+    width:573px;
+    }
+
+.j4{
+    background-color: white;
+    justify-content: center;
+}
+    
+.c7{margin-left:5px;
+    width:573px;
+    }
+.c8{margin-left: 30px;
+    width:573px;
+    }
+.c9{margin-left: 30px;
+    width:573px;
+    }
+
+.j5{display: flex;
+    margin-left: 55px;
+    margin-top: 20px;
+    width:1780px;
+    height:60px;
+    background-color: lightgray;
+    align-items: center;
+    justify-content: left;}
+
+.j6{margin-top: 20px;
+    width:1880px;
+    height:60px;
+    background-color: lightgray;    
+}
+.link1{margin-left: 60px;
+       margin-top: 20px;
+}
+.link2{margin-left: 40px;
+       margin-top: 20px;
+}
+.link3{margin-left: 40px;
+       margin-top: 20px;
+}
+.link4{margin-left: 40px;
+       margin-top: 20px;
+}
+.link5{margin-left: 40px;
+       margin-top: 20px;
+}
+.info{margin-left: 1300px;
+      margin-top: 20px;
+}
+p.txt{justify-content:flex-start;
+      padding-left: 40px;}
+
+.j7{
+    justify-content: flex-end;
+    
+    padding-right: 260px;
+}
+.dot{height: 15px;
+     width: 15px;
+     margin-top: 20px;
+     margin-right: 20px;
+     background-color: lightgray;
+     border-radius: 50%;
+     }
